@@ -46,10 +46,10 @@ function Navbar() {
           </ul>
 
           <div className="icon text-lg flex gap-4  lg:gap-8 lg:my-10">
-            <a href="https://gmail.com/lunadev823@gmail.com" target="_blank">
+            <a href="lunadev823@gmail.com" target="_blank">
               <i className="fa fa-envelope border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
             </a>
-            <a href="https://www.instagram.com/iburakz/" target="_blank">
+            <a href="live:.cid.ae278013393c8c04" target="_blank">
               <i className="fa-brands fa-skype border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
             </a>
             <a href="https://github.com/AngrySusanoo" target="_blank">

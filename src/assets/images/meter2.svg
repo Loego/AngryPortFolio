@@ -4,6 +4,7 @@
 <desc>Created with Fabric.js 5.2.4</desc>
 <defs>
 </defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
 <g transform="matrix(1 0 0 1 540 540)" id="891b1440-e68f-465c-b225-688051ce8c4c"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
 </g>
@@ -19,6 +20,6 @@
 <circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
 </g>
 <g transform="matrix(1 0 0 1 540 540)" style="" id="fcc72d1b-c7c6-4f41-bd80-71c7f41cea33"  >
-		<text xml:space="preserve" font-family="Lato" font-size="25" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,249); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.16" y="7.85" >9</tspan><tspan x="-16.16" y="7.85" >7</tspan><tspan x="-0.59" y="7.85" style="white-space: pre; "> </tspan><tspan x="8.16" y="7.85" >%</tspan></text>
+		<text xml:space="preserve" font-family="Lato" font-size="25" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,249); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.16" y="7.85" >9</tspan><tspan x="-16.16" y="7.85" >2</tspan><tspan x="-0.59" y="7.85" style="white-space: pre; "> </tspan><tspan x="8.16" y="7.85" >%</tspan></text>
 </g>
 </svg>

@@ -5,13 +5,19 @@ import "swiper/css/navigation";
 import "../styles.css";
 import { Navigation } from "swiper";
 import { Pagination } from "swiper";
-import img from "../assets/images/meter1.svg";
-import bg from "../assets/images/banner-bg.png"
+import img1 from "../assets/images/meter1.svg";
+import img2 from "../assets/images/meter2.svg";
+import img3 from "../assets/images/meter3.svg";
+import bg from "../assets/images/banner-bg.png";
 
 function Skills() {
   return (
     <>
-      <div id="skills" style={{backgroundImage: `url(${bg})`}} className="wrapper h-full bg-no-repeat bg-center bg-cover p-16 lg:p-4">
+      <div
+        id="skills"
+        style={{ backgroundImage: `url(${bg})` }}
+        className="wrapper h-full bg-no-repeat bg-center bg-cover p-16 lg:p-4"
+      >
         <div className="skills-wrapper text-center text-white bg-[#171717]  p-10 rounded-[50px] lg:p-2">
           <h1 className="text-4xl ">Skills</h1>
           <p className="text-lg py-3">
@@ -31,21 +37,21 @@ function Skills() {
               <SwiperSlide className="bg-[#171717]">
                 {" "}
                 <div className=" bg-[#171717]">
-                  <img src={img} alt="" />
+                  <img src={img1} alt="" />
                   <h1 className="font-bold text-2xl my-2">Frontend</h1>
                 </div>
               </SwiperSlide>
               <SwiperSlide className=" bg-[#171717]">
                 {" "}
                 <div className=" bg-[#171717]">
-                  <img src={img} alt="" />
+                  <img src={img2} alt="" />
                   <h1 className="font-bold text-2xl my-2">Backend</h1>
                 </div>
               </SwiperSlide>
               <SwiperSlide className=" bg-[#171717]">
                 {" "}
                 <div className=" bg-[#171717]">
-                  <img src={img} alt="" />
+                  <img src={img3} alt="" />
                   <h1 className="font-bold text-2xl my-2">Data Management</h1>
                 </div>
               </SwiperSlide>
@@ -53,7 +59,7 @@ function Skills() {
               <SwiperSlide className=" bg-[#171717]">
                 {" "}
                 <div className=" bg-[#171717]">
-                  <img src={img} alt="" />
+                  <img src={img2} alt="" />
                   <h1 className="font-bold text-2xl my-2">Blockchain</h1>
                 </div>
               </SwiperSlide>
