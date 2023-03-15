@@ -35,28 +35,24 @@ function Navbar() {
         >
           <ul className=" flex gap-10 text-3xl mr-4 lg:flex-col lg:gap-6 ">
             <li className="bla">
-              <AnchorLink href="#home">Home</AnchorLink>
+              <AnchorLink href="#home">HOME</AnchorLink>
             </li>
             <li className="bla">
-              <AnchorLink href="#skills">Skills</AnchorLink>
+              <AnchorLink href="#skills">SKILL</AnchorLink>
             </li>
             <li className="bla">
-              <AnchorLink href="#projects">Projects</AnchorLink>
+              <AnchorLink href="#projects">PROJECT</AnchorLink>
             </li>
           </ul>
 
           <div className="icon text-lg flex gap-4  lg:gap-8 lg:my-10">
-            <a href="https://twitter.com/reayhs" target="_blank">
-              <i className="fa-brands fa-twitter border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
+            <a href="https://gmail.com/lunadev823@gmail.com" target="_blank">
+              <i className="fa fa-envelope border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
             </a>
-
             <a href="https://www.instagram.com/iburakz/" target="_blank">
-              <i className="fa-brands fa-instagram border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
+              <i className="fa-brands fa-skype border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
             </a>
-            <a
-              href="https://github.com/AngrySusanoo"
-              target="_blank"
-            >
+            <a href="https://github.com/AngrySusanoo" target="_blank">
               <i className="fa-brands fa-github border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
             </a>
           </div>
