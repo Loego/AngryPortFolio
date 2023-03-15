@@ -36,7 +36,8 @@ function Projects() {
       id: 3,
       title: "DeFi",
       url: "https://app.liquidcrypto.finance/",
-      description: "Design & Development",
+      description:
+        "Built Frontend with React, UI frameworks(Tailwind Css, MUI)",
       img: img3,
     },
     {
@@ -49,37 +50,38 @@ function Projects() {
     },
     {
       id: 5,
-      title: "Business Startup",
+      title: "NFT marketplace",
       url: "https://www.exoworlds.io/",
-      description: "Developed Explorer",
+      description: "Built Frontend by using Gatsby.",
       img: img5,
     },
     {
       id: 6,
       title: "DeFi",
       url: "https://dapp.cheemsx.org/",
-      description: "",
+      description:
+        "Connected to Ethereum nodes over Etherscan, INFURA,or MetaMask",
       img: img6,
     },
     {
       id: 7,
-      title: "Business Startup",
+      title: "CEX & Bridge",
       url: "https://zigzag-exchange.netlify.app/",
-      description: "Design & Development",
+      description: "Development",
       img: img7,
     },
     {
       id: 8,
-      title: "Business Startup",
+      title: "Bridge",
       url: "https://app.barnbridge.com/governance/overview",
-      description: "Design & Development",
+      description: "Development",
       img: img8,
     },
     {
       id: 9,
       title: "Metaverse",
       url: "https://ariva-game.vercel.app/",
-      description: "Design & Development",
+      description: "Solution Development",
       img: img9,
     },
   ];
