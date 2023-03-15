@@ -18,21 +18,23 @@ function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Business Startup",
+      title: "DEX",
       url: "https://www.wardenswap.finance/",
-      description: "Design & Development",
+      description:
+        "The big difference from the other swap platforms is an algorithm to find the best rate for arbitrary tokens automatically. POS: Frontend",
       img: img1,
     },
     {
       id: 2,
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "DeFi",
+      description:
+        "Kept a persistent state (storage and balance) at a high level by delegating ERC1967 proxy contract POS: Smart Contract",
       url: "https://kaizen.finance/",
       img: img2,
     },
     {
       id: 3,
-      title: "Business Startup",
+      title: "DeFi",
       url: "https://app.liquidcrypto.finance/",
       description: "Design & Development",
       img: img3,
@@ -40,22 +42,23 @@ function Projects() {
     {
       id: 4,
       url: "https://battlehero.io/",
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "NFT Game",
+      description:
+        "Built smart contracts of NFT Game.(Marketplace by implementing ERC-721 and developed staking with ERC20) POS: Smart Contract",
       img: img4,
     },
     {
       id: 5,
       title: "Business Startup",
       url: "https://www.exoworlds.io/",
-      description: "Design & Development",
+      description: "Developed Explorer",
       img: img5,
     },
     {
       id: 6,
-      title: "Business Startup",
+      title: "DeFi",
       url: "https://dapp.cheemsx.org/",
-      description: "Design & Development",
+      description: "",
       img: img6,
     },
     {
@@ -74,8 +77,8 @@ function Projects() {
     },
     {
       id: 9,
-      title: "Business Startup",
-      url: "https://herofi.io/",
+      title: "Metaverse",
+      url: "https://ariva-game.vercel.app/",
       description: "Design & Development",
       img: img9,
     },
