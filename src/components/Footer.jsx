@@ -11,7 +11,7 @@ function Footer() {
               <i className="fa-brands fa-github border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
             </a>
 
-            <a href="https://www.instagram.com/iburakz/" target="_blank">
+            <a href="live:.cid.ae278013393c8c04" target="_blank">
               <i className="fa-brands fa-skype border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"></i>
             </a>
             <a href="https://gmail.com/lunadev823@gmail.com" target="_blank">
