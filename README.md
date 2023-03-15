@@ -1,1 +1,1 @@
-Hello, This is my portfolio. Please check.
+Hello, This is my portfolio. You're welcome.
